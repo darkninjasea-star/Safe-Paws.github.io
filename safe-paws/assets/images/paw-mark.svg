@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Safe Paws">
-  <g fill="#315b46">
-    <ellipse cx="13" cy="14" rx="5" ry="7" transform="rotate(-25 13 14)"/>
-    <ellipse cx="23" cy="9" rx="5" ry="7" transform="rotate(-8 23 9)"/>
-    <ellipse cx="34" cy="13" rx="5" ry="7" transform="rotate(22 34 13)"/>
-    <ellipse cx="40" cy="23" rx="5" ry="7" transform="rotate(45 40 23)"/>
-    <path d="M24 19c-9 0-17 7-17 16 0 5 4 8 9 8 3 0 6-2 8-4 2 2 5 4 8 4 5 0 9-3 9-8 0-9-8-16-17-16Z"/>
-  </g>
-</svg>
