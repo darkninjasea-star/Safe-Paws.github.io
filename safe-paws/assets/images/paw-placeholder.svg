@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Safe Paws pet portrait placeholder">
+  <rect width="600" height="400" rx="28" fill="#e9efe6"/>
+  <circle cx="300" cy="205" r="122" fill="#d5e3d4"/>
+  <ellipse cx="218" cy="121" rx="32" ry="44" transform="rotate(-28 218 121)" fill="#557967"/>
+  <ellipse cx="282" cy="91" rx="32" ry="44" transform="rotate(-8 282 91)" fill="#557967"/>
+  <ellipse cx="349" cy="105" rx="32" ry="44" transform="rotate(18 349 105)" fill="#557967"/>
+  <ellipse cx="404" cy="151" rx="32" ry="44" transform="rotate(42 404 151)" fill="#557967"/>
+  <path d="M300 161c-57 0-103 42-103 95 0 39 29 67 67 67 16 0 27-7 36-18 9 11 20 18 36 18 38 0 67-28 67-67 0-53-46-95-103-95Z" fill="#557967"/>
+  <path d="M300 244c-18 0-31 11-31 25 0 12 13 21 31 21s31-9 31-21c0-14-13-25-31-25Z" fill="#f8f6ef"/>
+  <text x="300" y="370" fill="#355b47" font-family="Arial,sans-serif" font-size="17" font-weight="600" text-anchor="middle" letter-spacing="2">A SAFE PAWS PET</text>
+</svg>
