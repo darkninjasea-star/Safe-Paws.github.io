@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" role="img" aria-label="Illustration of a dog and cat waiting for a home">
+  <rect width="640" height="540" rx="42" fill="#e7eee4"/>
+  <circle cx="320" cy="270" r="205" fill="#d4e2d2"/>
+  <path d="M67 403c51-69 109-79 151-39 30 29 40 70 18 111H67Z" fill="#eb9a67"/>
+  <path d="M525 403c-51-69-109-79-151-39-30 29-40 70-18 111h169Z" fill="#315b46"/>
+  <path d="M191 212 141 106c-7-16 8-32 25-25l100 43m183 88 50-106c7-16-8-32-25-25L374 124" fill="#ba7950"/>
+  <path d="M160 157c49-61 109-82 160-82s111 21 160 82l-12 119c-7 71-69 123-148 123s-141-52-148-123Z" fill="#d89a6c"/>
+  <path d="M267 233c-9-13-26-17-39-9-11 7-13 22-3 32 9 9 28 10 42 0m105-23c9-13 26-17 39-9 11 7 13 22 3 32-9 9-28 10-42 0" fill="#315b46"/>
+  <ellipse cx="320" cy="297" rx="20" ry="15" fill="#453c39"/>
+  <path d="M320 312c-2 16-16 25-32 20m32-20c2 16 16 25 32 20" fill="none" stroke="#453c39" stroke-linecap="round" stroke-width="7"/>
+  <path d="M245 348c22 25 48 38 75 38s53-13 75-38" fill="none" stroke="#fff6e9" stroke-linecap="round" stroke-width="9"/>
+  <path d="M126 430c32-23 70-22 96 2m292-2c-32-23-70-22-96 2" fill="none" stroke="#f7f4ec" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="521" cy="114" r="25" fill="#e58a65"/>
+  <path d="M520 95c-5-18 3-36 20-43-1 22-7 35-20 43m0 0c-11-17-29-22-45-13 13 16 27 21 45 13" fill="#315b46"/>
+  <path d="M91 167c-8-15-5-34 8-45 7 17 6 31-8 45m0 0c-15-7-31-2-39 12 16 7 29 3 39-12" fill="#315b46"/>
+</svg>
