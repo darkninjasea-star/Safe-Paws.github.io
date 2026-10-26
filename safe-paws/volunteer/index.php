@@ -1,0 +1,3 @@
+<?php require __DIR__.'/../includes/header.php';$u=require_role('volunteer');$s=db()->prepare('SELECT COUNT(*) FROM rescue_assignments WHERE volunteer_id=? AND status IN ("assigned","in_progress")');$s->execute([$u['id']]);$open=(int)$s->fetchColumn();?>
+<div class="hero-strip"><h1>Welcome, <?=e($u['name'])?></h1><p>Your time makes a real difference. Help bring animals to safety.</p><a class="btn" href="reports.php">View my assignments (<?=$open?>)</a></div><div class="panel"><h2>Volunteer tips</h2><p>Never approach an injured or frightened animal alone. Keep a safe distance, note the exact location, and contact emergency services if there is immediate danger.</p></div>
+<?php require __DIR__.'/../includes/footer.php'; ?>
